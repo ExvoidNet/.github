@@ -16,9 +16,13 @@
 ## Â-Propos / About
 </div>  
   
-Communauté québécoise ouverte et accueillante regroupant les amateurs de jeux multijoueur, tous nous serveur(s) de jeu sont hébergé localement sur notre propre équipement dédier.
+Exvoid Network est une communauté québécoise ouverte et accueillante regroupant les amateurs de jeux multijoueur, tous nous serveur(s) de jeu sont hébergé localement sur notre propre équipement dédier.
 
-Canadian-french based community open and friendly to all multiplayer games enthusiasts, all of our game server(s) are self-hosted locally on our own dedicated hardware.
+Nous croyons également a l'initiative de l'open source et la majorité de nos projets sont publiquement accessibles.
+
+*Exvoid Network is a Canadian french-based community open and friendly to all multiplayer games enthusiasts, all of our game server(s) are self-hosted locally on our own dedicated hardware.*
+
+*We also believe in the open source initiative and have most of our projects publicly viewable.*
 
 <!-- REPOSITORY -->
 <div align="center">
@@ -28,3 +32,5 @@ Canadian-french based community open and friendly to all multiplayer games enthu
 
 - [ExvoidNet/Wiki](https://github.com/ExvoidNet/wiki)
 - [ExvoidNet/Swears](https://github.com/ExvoidNet/swears)
+- [ExvoidNet/Plugins](https://github.com/ExvoidNet/plugins)
+- [ExvoidNet/Modmail](https://github.com/ExvoidNet/modmail)

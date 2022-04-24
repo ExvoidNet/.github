@@ -20,15 +20,18 @@ Exvoid Network est une communauté québécoise ouverte et accueillante regroupa
 
 *Exvoid Network is a Canadian french-based community open and friendly to all multiplayer games enthusiasts, all of our game server(s) are self-hosted locally on our own dedicated hardware.*
 
-Nous croyons également a l'initiative de l'open source et la majorité de nos projets sont publiquement accessibles.
+**Open Source**
 
-*We also believe in the open source initiative and have most of our projects publicly viewable.*
+Nous croyons a l'initiative de l'open source et la majorité de nos projets sont publiquement accessibles.
+
+*We believe in the open source initiative and have most of our projects publicly viewable.*
 
 <!-- REPOSITORY -->
 <div align="center">
   
 ## Répositoires / Repositories
 </div>
+
 - [ExvoidNet/Plugins](https://github.com/ExvoidNet/plugins)
 - [ExvoidNet/Site](https://github.com/ExvoidNet/site)
 - [ExvoidNet/Wiki](https://github.com/ExvoidNet/wiki)

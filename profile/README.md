@@ -1,44 +1,58 @@
-<!--
-*** Using the Best-README-Template (https://github.com/othneildrew/Best-README-Template).
+<!--  ___           ___           ___           ___                       ___
+     /\  \         |\__\         /\__\         /\  \          ___        /\  \
+    /::\  \        |:|  |       /:/  /        /::\  \        /\  \      /::\  \
+   /:/\:\  \       |:|  |      /:/  /        /:/\:\  \       \:\  \    /:/\:\  \
+  /::\~\:\  \      |:|__|__   /:/__/  ___   /:/  \:\  \      /::\__\  /:/  \:\__\
+ /:/\:\ \:\__\ ____/::::\__\  |:|  | /\__\ /:/__/ \:\__\  __/:/\/__/ /:/__/ \:|__|
+ \:\~\:\ \/__/ \::::/~~/~     |:|  |/:/  / \:\  \ /:/  / /\/:/  /    \:\  \ /:/  /
+  \:\ \:\__\    ~~|:|~~|      |:|__/:/  /   \:\  /:/  /  \::/__/      \:\  /:/  /
+   \:\ \/__/      |:|  |       \::::/__/     \:\/:/  /    \:\__\       \:\/:/  /
+    \:\__\        |:|  |        ~~~~          \::/  /      \/__/        \::/__/
+     \/__/         \|__|                       \/__/                     ~~
+
+All rights reserved ; Exvoid Network (c) 2025
+https://exvoid.net
+
+Inspired by "Best-README-Template" @ https://github.com/othneildrew/Best-README-Template
 -->
 
 <!-- BACK TO TOP  -->
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
+<!-- LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ExvoidNet/wiki">
-    <img src="https://github.com/ExvoidNet/wiki/raw/master/static/img/header.png" alt="Logo" width="350">
+  <a href="https://github.com/ExvoidNet/.github">
+    <img src="/title_logo.png" alt="Logo" width="350">
   </a>
 
-<!-- ABOUT -->
-## Â-Propos / About
-</div>  
-  
-Exvoid Network est une communauté québécoise ouverte et accueillante regroupant les amateurs de jeux multijoueur, tous nous serveur(s) de jeu sont hébergé localement sur notre propre équipement dédier.
+<h1></h1>
 
-*Exvoid Network is a Canadian french-based community open and friendly to all multiplayer games enthusiasts, all of our game server(s) are self-hosted locally on our own dedicated hardware.*
+<!-- NOTICE -->
+<h3 align="center">Désuet / Deprecated</h3>
 
-<!-- OPEN SOURCE -->
-<div align="center">
-  
-## Open Source
-</div>  
-
-Nous croyons a l'initiative de l'open source et la majorité de nos projets sont publiquement accessibles.
-
-*We believe in the open source initiative and have most of our projects publicly viewable.*
-
-<!-- REPOSITORY -->
-<div align="center">
-  
-## Répositoires / Repositories
+  <p align="center">
+    Nous avons migrer vers une autre plateforme Git afin de mieux soutenir nos besoins.
+    <br />
+      <i>We've moved to another Git platform to better suits our needs.</i>
+    <br />
+    <br />
+    <a href="https://git.exvoid.net/exvoidnet/"><strong>Accès / Access »</strong></a>
+  </p>
 </div>
 
-- [ExvoidNet/Plugins](https://github.com/ExvoidNet/plugins)
-- [ExvoidNet/Site](https://github.com/ExvoidNet/site)
-- [ExvoidNet/Wiki](https://github.com/ExvoidNet/wiki)
-- [ExvoidNet/Swears](https://github.com/ExvoidNet/swears)
-- [ExvoidNet/Modmail](https://github.com/ExvoidNet/modmail)
-- [ExvoidNet/Zeppelin](https://github.com/ExvoidNet/Zeppelin)
+<h1></h1>
+
+<!-- ABOUT (FR) -->
+> <h3>À propos</h3>
+<p>
+Basé au Québec, Exvoid Network est un projet qui héberge une communauté diverse et accueillante d'amateurs de jeux multijoueurs sur son propre équipement et serveur de jeu dédié. <br /><br />
+Nous croyons à l'initiative de l'Open Source et partageons nos projets et contributions là où c'est possible.
+</p>
+
+<!-- ABOUT (EN) -->
+> <h3>About</h3>
+<p>
+  Based in Québec, Canada, Exvoid Network is a project which hosts a diverse and friendly community of multiplayer gaming enthusiasts on its own dedicated hardware and game servers. <br /><br />
+  We believe in the Open Source initiative and share our projects and contributions whenever possible.
+</p>
